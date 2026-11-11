@@ -1,0 +1,4 @@
+interface:
+  display_name: "椰子PPTskill"
+  short_description: "依据原文制作课程PPT，校准短标题与层级，并配套口语讲稿"
+  default_prompt: "使用 $coconut-ppt，按原文与指定模板制作或修订课程汇报，先审读标题和层级，需要时配套逐页口语讲稿。"
